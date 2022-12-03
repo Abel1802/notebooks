@@ -86,6 +86,81 @@
 &ensp; [eg] She twisted the spaghetti around her fork.
 ---
 
+- **pale** [peil]
+&ensp; [adj] ~ means that a color or thing is not bright.
+&ensp; [eg] The girl's skin very pale.
+---
+
+- **rough** [r^f]
+&ensp; [adj] -
+&ensp; [eg] The rough ground hurt my feet.
+---
+
+- **strength** [strenth]
+&ensp; [n] ~ is the ability to do hard work or exercise.
+&ensp; [eg] Eating good food builds up your strength.
+---
+
+- **threat** [ret]
+&ensp; [n] A ~ is sth bad that might happen.
+&ensp; [eg] Due to the clouds, there was a threat of a bad storm.
+---
+
+- **ancestor** [aen]
+&ensp; [n] An ~ is a family member from the past.
+&ensp; [eg] My ancertors came from Germany.
+---
+
+- **angle** [aengl]
+&ensp; [n] An ~ is the direction from which sth is looked at.
+&ensp; [eg] The giraffe turned its head to see from another angle.
+---
+
+- **praise** [preiz]
+&ensp; [vt] To ~ is to show that you like someone or sth.
+&ensp; [eg] The coach praise the athletes after a good practice.
+---
+
+- **relative** []
+&ensp; [n] A ~ is a family memeber.
+&ensp; [eg] My relatives came by to see the new baby.
+---
+
+- **sink** [sink]
+&ensp; [vi] To sink into sth is to slowly fall into it.
+&ensp; [eg] The boat had a hole in it, and it sank into the ocean.
+---
+
+- **biology** []
+&ensp; [n] ~ is the study of living things.
+&ensp; [eg] We learned about the human heart in biology class.
+---
+
+- **cage** [ei]
+&ensp; [n] A ~ is sth that holds an animal so it cannot leave.
+&ensp; [eg] We put the parrots in their cage at night.
+---
+
+- **colony** ['kDl-eni]
+&ensp; [n] A ~ is a country controlled ny another country.
+&ensp; [eg] The USA was at the colony of Great Britain.
+---
+
+- **depart** [-]
+&ensp; [vt] To ~ is to leave some place so you can go to another place.
+&ensp; [eg] The plane departed for Italy at 3:00 this afternoon.
+---
+
+- **fascinate** [faes-eneit]
+&ensp; [vt] To ~ sb is to make that person very interested.
+&ensp; [eg] The kitten was fascinated by the ball of yarn.
+---
+
+- **nevertheless** []
+&ensp; [adv] ~ shows a difference to what is expected or know.
+&ensp; [eg] He is usually friendly. Nevertheless, he wasn't friendly this afternoon.
+---
+
 - **** []
 &ensp; []
 &ensp; [eg]
