@@ -35,3 +35,58 @@
 &ensp; [vt] To ~ is to accidentally make sth fall out of its contain.
 &ensp; [eg] I spilled the coffee on the table.
 ---
+
+- **arrow** [ae]
+&ensp; [n] An ~ is a thin, straight stick shot from a bow.
+&ensp; [eg] The arrow flew through the air and hit the target.
+---
+
+- **bow** [bou]
+&ensp; [n] A bow is a weapon made of curved wood and string that shoots arrows.
+&ensp; [eg] He went hunting with a bow and arrow.
+---
+
+- **chief** [i:]
+&ensp; [n] A chief is the leader of a group of people.
+&ensp; [eg] The chief led the people through the mountains.
+---
+
+- **enemy** [en-emi]
+&ensp; [n] An ~ is a country that is fighting another country during a war.
+&ensp; [eg] The enemy prepared to attack the kingdom.
+---
+
+- **intend** [intend]
+&ensp; [vt] To ~ to do sth means to plan to do it.
+&ensp; [eg] I intend to finish college in three years.
+---
+
+- **military** [mili]
+&ensp; [n] The ~ is the armed forces of a country.
+&ensp; [eg] I joined the military after I finished high school.
+---
+
+- **obey** [oubei]
+&ensp; [vt] To ~ means to follow what a lwa a person says to do.
+&ensp; [eg] My little sister did not obey my mother. Now, she is in trouble.
+---
+
+- **secure** [si]
+&ensp; [n & adj] To ~ sth means to get it after a lot of effort.
+&ensp; [eg] I was able to secure a good grade on my test after weeks of studying.
+---
+
+- **steady** [stedi]
+&ensp; [adj] ~ shows that someone or sth does not change much.
+&ensp; [eg] The problem was hard, but she remained steady and solved it.
+---
+
+- **twist** [twist]
+&ensp; [vt] When we ~ sth we turn it around and around.
+&ensp; [eg] She twisted the spaghetti around her fork.
+---
+
+- **** []
+&ensp; []
+&ensp; [eg]
+---
