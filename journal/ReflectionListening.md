@@ -6,7 +6,7 @@ It was boring when I practiced my English listening (4000 essential words). So I
 
 ---
 
-I knew the truth that one perpon must pay much more effort if he want a success in something. But it's so hard to do a thing that you didn't like it. I concluded some reasones I couldn't do it.
+I knew the truth that one person must pay much more effort if he want a success in something. But it's so hard to do a thing that you didn't like it. I concluded some reasons I couldn't do it.
 
 - Not study in proper time. (like, I was tired)
 
@@ -20,10 +20,10 @@ So I should make some change to my english listening practice.
 
 - I should try some different time in day to practice listening. 
 
-- I should make some clear goals for the short-term and the long-term object. (give myself a reward if I finish my daily goals, otherwise panish myself.)
+- I should make some clear goals for the short-term and the long-term object. (give myself a reward if I finish my daily goals, otherwise punishment myself.)
 
 
 ### some important experience for updating (3-12-2022)
 
 - I more likely to continue my study planning if I get a positive feedback.
-eg. When I understood the main meaning of the roundtable, a podcost, I want to continue my listening practice.
+eg. When I understood the main meaning of the roundtable, a podcast, I want to continue my listening practice.
