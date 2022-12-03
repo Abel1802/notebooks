@@ -6,7 +6,7 @@ It was boring when I practiced my English listening (4000 essential words). So I
 
 ---
 
-I knew the truth that one person must pay much more effort if he want a success in something. But it's so hard to do a thing that you didn't like it. I concluded some reasons I couldn't do it.
+I knew the truth that one person must pay much more effort if he wants a success in something. But it's so hard to do a thing that you didn't like it. I concluded some reasons I couldn't do it.
 
 - Not study in proper time. (like, I was tired)
 
@@ -16,7 +16,7 @@ I knew the truth that one person must pay much more effort if he want a success 
 
 ---
 
-So I should make some change to my english listening practice. 
+So I should make some change to my English listening practice. 
 
 - I should try some different time in day to practice listening. 
 
@@ -25,5 +25,5 @@ So I should make some change to my english listening practice.
 
 ### some important experience for updating (3-12-2022)
 
-- I more likely to continue my study planning if I get a positive feedback.
+- I would more likely to continue my study planning if I get positive feedback.
 eg. When I understood the main meaning of the roundtable, a podcast, I want to continue my listening practice.
