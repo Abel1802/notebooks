@@ -1,6 +1,6 @@
 # Reflection of my listening practice
 
-## A thought for my English listening practice (1-12-2022).
+## A thought for my English listening practice (1-12-2022)
 
 It was boring when I practiced my English listening (4000 essential words). So I just thought it was not a purple way to learn a new language. But what is the best way for me to practice my English listening? I was very anxious when I didn't understand the content of a conversation when a person talking with me. 
 
@@ -26,4 +26,5 @@ So I should make some change to my English listening practice.
 ### some important experience for updating (3-12-2022)
 
 - I would more likely to continue my study planning if I get positive feedback.
+
 e.g. When I understood the main meaning of the roundtable, a podcast, I want to continue my listening practice.
