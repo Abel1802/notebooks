@@ -1,33 +1,37 @@
-vim shortcut key
-===
+# vim shortcut key
 
 ## Content
+
 * [Inset mode](#1)
 * [Normal mode](#2)
 * [Visual mode](#3)
 
 <h3 id='1'> Insert mode</h3>
 
-##### 1. Delete
-- **ctrl+h**: delete a charactor
+#### 1. Delete
 
-- **ctrl+w**: delete a word
+* **ctrl+h**: delete a character
 
-- **ctrl+u**: delete a line
+* **ctrl+w**: delete a word
+
+* **ctrl+u**: delete a line
 
 ---
 
 <h3 id='2'> Normal mode</h3>
 
-##### 1. Replace
+#### 1. Replace
+
+* **:%s/before/after/g**
 
 ---
 
 <h3 id='3'> Visual mode</h3>
 
 ##### 1. Select: 
-- **v**: charactorwise 
-- **V**: linewise
-- **ctrl+v**: blockwise
+
+* **v**: character-wise
+* **V**: line-wise
+* **ctrl+v**: block-wise
 
 ---
