@@ -26,4 +26,4 @@ So I should make some change to my English listening practice.
 ### some important experience for updating (3-12-2022)
 
 - I would more likely to continue my study planning if I get positive feedback.
-eg. When I understood the main meaning of the roundtable, a podcast, I want to continue my listening practice.
+e.g. When I understood the main meaning of the roundtable, a podcast, I want to continue my listening practice.

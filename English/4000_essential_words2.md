@@ -161,7 +161,87 @@
 &ensp; [eg] He is usually friendly. Nevertheless, he wasn't friendly this afternoon.
 ---
 
-- **** []
-&ensp; []
-&ensp; [eg]
+- **broad** /brD:d/
+&ensp; {adj} ~ means that something is wide, not narrow.
+&ensp; e.g. The river is very long and broad.
+
+---
+
+- **capable** /keip-ebl/
+&ensp; {adj} A ~ person for thing can do an action.
+&ensp; e.g. The Olympic athlete is capable of lifting a lot of weight.
+
+---
+
+- **cheat** /i:/
+&ensp; {vi ~ on sth} They cheated on the test by sharing answers.
+&ensp; {vt ~ sb/sth} She is accused of attempting to cheat the taxman.
+
+---
+
+- **cheat** /i:/
+&ensp; {vi ~ on sth} They cheated on the test by sharing answers.
+&ensp; {vt ~ sb/sth} She is accused of attempting to cheat the taxman.
+
+---
+
+- **considerable** //
+&ensp; {adj} ~ means large in size, amount, or extent.
+&ensp; e.g. They paid a ~ amount of money for the car.
+
+---
+
+- **resort** //
+&ensp; {n} A popular holiday resort.
+&ensp; {vi ~ to sth} I hope they don't resort to violence to end the argument.
+
+---
+
+- **prevent** //
+&ensp; {vt} To ~ sth is to stop it from happening.
+&ensp; e.g. The handcuffs prevented me from moving my hand.
+
+---
+
+- **council** /kauns-el/
+&ensp; {n} A ~ is a group of people who run a city or town.
+&ensp; e.g. The council met to discuss the new laws for the city.
+
+---
+
+- **funeral** /fju:n-er-el/
+&ensp; {n} A ~ is a ceremony that takes place after a person dies.
+&ensp; e.g. They had a funeral for the soldier who died during the war.
+
+---
+
+- **mad** /ae/
+&ensp; {adj} A ~ person or animal is angry.
+&ensp; e.g. Mother got mad when I didn't listen to her.
+
+---
+
+- **sword** /w not sound/
+&ensp; {n} A ~ is a long sharp weapon.
+&ensp; e.g. They used to use swords in battles in ancient times.
+
+---
+
+- **tale** /teil/
+&ensp; {n} A ~ is a story.
+&ensp; e.g. She told her two friends about the wild tale of her day.
+
+---
+
+- **trial** /trai-el/
+&ensp; {n} A ~ is the way a court discovers if a person is guilty or innocent.
+&ensp; e.g. He went on trial for robbing the bank.
+Note: trial VS trail /treil/
+
+---
+
+- **** //
+&ensp; {}
+&ensp; e.g.
+
 ---
