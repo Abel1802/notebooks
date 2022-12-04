@@ -1,37 +1,39 @@
 # vim shortcut key
 
-## Content
-
-* [Inset mode](#1)
-* [Normal mode](#2)
-* [Visual mode](#3)
-
-<h3 id='1'> Insert mode</h3>
-
-#### 1. Delete
-
-* **ctrl+h**: delete a character
-
-* **ctrl+w**: delete a word
-
-* **ctrl+u**: delete a line
+- [vim shortcut key](#vim-shortcut-key)
+  - [Insert mode](#insert-mode)
+    - [delete](#delete)
+  - [Normal mode](#normal-mode)
+    - [replace](#replace)
+  - [Visual mode](#visual-mode)
+    - [select](#select)
 
 ---
 
-<h3 id='2'> Normal mode</h3>
+## Insert mode
 
-#### 1. Replace
+### delete
 
-* **:%s/before/after/g**
+- **ctrl+h**: delete a character
+
+- **ctrl+w**: delete a word
+
+- **ctrl+u**: delete a line
+
+---
+
+## Normal mode
+
+### replace
+
+- **:%s/before/after/g**
 
 ---
 
-<h3 id='3'> Visual mode</h3>
+## Visual mode
 
-##### 1. Select: 
+### select
 
-* **v**: character-wise
-* **V**: line-wise
-* **ctrl+v**: block-wise
-
----
+- **v**: character-wise
+- **V**: line-wise
+- **ctrl+v**: block-wise
