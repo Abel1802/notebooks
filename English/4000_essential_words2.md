@@ -1,11 +1,17 @@
 # Some essential words for me
 
 - [Some essential words for me](#some-essential-words-for-me)
-  - [Unit1 ~ Unit10](#unit1--unit10)
-  - [Unit 11 ~ Unit 20](#unit-11--unit-20)
-  - [Unit 21 ~ Unit 30](#unit-21--unit-30)
+  - [2](#2)
+    - [Unit1 ~ Unit10](#unit1--unit10)
+    - [Unit 11](#unit-11)
+  - [3](#3)
+  - [4](#4)
+  - [5](#5)
+  - [6](#6)
 
-## Unit1 ~ Unit10
+## 2
+
+### Unit1 ~ Unit10
 
 - **ski** /ski:/  
     [df] to ski is to glide on long pieces of wood or mental over snow.
@@ -290,12 +296,110 @@ Note: trial VS trail /ei/
 
 ---
 
+### Unit 11
+
 - **** //
 &ensp; {}
 &ensp; e.g.
 
 ---
 
-## Unit 11 ~ Unit 20
+- **admission** //
+&ensp; {n} ~ is the act od allowing to enter a place.
+&ensp; e.g. The ~ ticket to the movie was $5.
 
-## Unit 21 ~ Unit 30
+---
+
+- **exhibit** /i, h not sound/
+&ensp; {VT, VI(at/in...)} to show sth in a public place.
+    > e.g. He exhibits regularly in local art galleries.
+
+&ensp; {VT, ~sth} to show that you have or feel a feeling, quality or ability.
+    > e.g. The patient exhibited signs of fatigue and memory loss.
+
+---
+
+- **fame** /ei/
+&ensp; {n} ~ is a reputation one has gained among the public.
+    > e.g. He had fame anf fortune, but he was not happy.
+
+---
+
+- **geography** //
+&ensp; {n} ~ is the study of the Earth, its land, weather, etc.
+    >e.g. I had to draw a map for geography class.
+
+---
+
+- **principal** //
+&ensp; {n} A ~ is a person in charge of a school.
+    >e.g. My school'r ~ can be very strict with the rules.
+
+&ensp; {adj} most important; main
+    >e.g. New roads will link the principal cities of the area.
+
+---
+
+- **spite** /ai/
+&ensp; {U} a feeling of wanting to hurt or upset sb.
+    > e.g. I's sure he only said it out of spite.
+&ensp; {IDM, in spite of sth} == despite
+    > e.g. In spite of his age, he still leads a active life.
+
+---
+
+- **debt** /b not sound/
+&ensp; {n} A ~ is an amount of money that a person owes.
+    >e.g. I have not paid my gas bill. I owe a debt to the gas company.
+
+---
+
+- **bake** /ei/
+&ensp; {VT} To ~ means to cook food in an oven.
+    >e.g. My sister is a good cook. She bakes delicious cakes.
+
+---
+
+- **insist** //
+&ensp; {VT, VI} To ~ means to be firm in telling people what to do.
+    >e.g. I insist that you try some of these cookies.
+
+---
+
+- **mess** /e/
+&ensp; {n} A ~ is a condition that is not clean or neat.
+    >e.g. Heather's room was a complete mess.
+
+---
+
+- **metal** /e/
+&ensp; {n} ~ is a material people use to build things.
+    >e.g. Steel is a common metal that is used to build buildings.
+
+---
+
+- **oppose** /-e, ou/
+&ensp; {n} To ~ sth means to dislike it or act against it.
+    >e.g. I want to be a police officer because I oppose crime.
+
+---
+
+- **passive** /ae/
+&ensp; {n} A ~ person does not take action to solve problems.
+    >e.g. Marcie is so passive that she never solves her own problems.
+
+---
+
+- **sue** /su:/
+&ensp; {n} To ~ is to take someone to court for some harmful action.
+    >e.g. I sued the company after I slipped on a banana peel in their hallway.
+
+---
+
+## 3
+
+## 4
+
+## 5
+
+## 6
