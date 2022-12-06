@@ -6,6 +6,7 @@
     - [story 4. Happy birthday](#story-4-happy-birthday)
     - [Story 5. Life's too short](#story-5-lifes-too-short)
     - [Story 6. Sharp-dressed man](#story-6-sharp-dressed-man)
+    - [Story 7. The end or the beginning](#story-7-the-end-or-the-beginning)
   - [Part 2](#part-2)
   - [Part 3](#part-3)
 
@@ -104,6 +105,36 @@
 
 - [ ] interrupt
     > Sorry to interrupt. We found these, Gary.
+
+### Story 7. The end or the beginning
+
+- [ ] lottery
+    > She's won the lottery twice.
+    > I've never won the lottery.
+
+- [ ] --
+    >  All clear. And the best thing is I can eat normally again.
+
+- [ ] Italian
+    > Shall we try that Italian place near the museum.
+
+- [ ] --
+    > Great! Shall I call for you about eight.
+    > I'm going to be in town anyway. So can we meet at the restaurant at say half past seven.
+
+- [ ] sauce
+    > You've got some sauce on your cheek.
+
+- [ ] Asia / South America
+    > I've traveled around a bit, mostly in Asia and South America.
+    > But I've' never actually lived in another country.
+
+- [ ] keys
+    > I can't find my keys. I think I've left them at work.
+
+- [ ] be on the phone to sb
+    > I'm just on the phone to my sister, so I'll see you in a minute.
+    > Still locked out.
 
 ## Part 2
 
