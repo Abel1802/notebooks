@@ -3,7 +3,8 @@
 - [Some essential words for me](#some-essential-words-for-me)
   - [2](#2)
     - [Unit1 ~ Unit10](#unit1--unit10)
-    - [Unit 11](#unit-11)
+    - [Unit 11 ~ 12](#unit-11--12)
+    - [Unit 13 ~ 15](#unit-13--15)
   - [3](#3)
   - [4](#4)
   - [5](#5)
@@ -296,7 +297,7 @@ Note: trial VS trail /ei/
 
 ---
 
-### Unit 11
+### Unit 11 ~ 12
 
 - **** //
 &ensp; {}
@@ -393,6 +394,135 @@ Note: trial VS trail /ei/
 - **sue** /su:/
 &ensp; {n} To ~ is to take someone to court for some harmful action.
     >e.g. I sued the company after I slipped on a banana peel in their hallway.
+
+---
+
+### Unit 13 ~ 15
+
+- **adequate** /ae/
+    {adj} Sth adequate is good enough.
+    > e.g. This is adequate for my need.
+
+---
+
+- **carve** /a:/
+    {VT} To ~ means to cut into sth
+    > e.g. My father usually carves the turkey for Thanksgiving.
+
+---
+
+- **fortune** /'fɔːtʃuːn/
+    {U} chance for luck
+    > e.g. I have had the good fortune to work with some brilliant directors.
+
+    {C} a large amount of money
+    > She inherited a share of the family fortune.
+
+---
+
+- **intense** //
+    {adj} An ~ thing is very strong.
+    > e.g. The skunk made an intense odor that filled the air.
+
+---
+
+- **lend** //
+    {VT} To ~ sth is to give it to sb for a short time.
+    > e.g. My sister lost her pen, so I will lend her mine.
+
+---
+
+- **pride** //
+    {n} ~ is a feeling of happiness about oneself or one's thing.
+    > e.g. I take pride in getting good grades.
+
+    {V, pride yourself on sth/on doing sth}
+    > She had always prided herself on her appearance.
+
+---
+
+- **spin** /spin/
+    {VT} To ~ is to turn around in circles.
+    > e.g. The boy kept spinning until he fell down.
+
+---
+
+- **tiny** /ai/
+    {VT} A ~ thing is very small.
+    > e.g. A baby's hand is tiny.
+
+---
+
+- **apparent** /-e/
+    {adj} ~ means clear or easy to see.
+    > e.g. Her happiness was apparent from the smile on her face.
+
+---
+
+- **commit** //
+    {VT, often passive, ~ sb/(to sth/to do sth)} To promise sincerely that you will definitely do sth.
+    > e.g. The President is committed to reform health care.
+
+    {VT, ~ a crime, etc.} to do sth wrong or illegal.
+    > to commit murder
+    > Most crimes are committed by young men.
+
+---
+
+- **exhaust** /i, D:, h not sound/
+    {VT, ~ sb} To ~ sb is to make that person tired.
+    > e.g. John exhausted himself swimming all day.
+
+---
+
+- **portion** //
+    {U} A ~ of sth is a part of it.
+    > e.g. I only ate a portion of the pizza.
+
+---
+
+- **severe** /i, i/
+    {adj} ~ means very bad or serious.
+    > e.g. After hitting his hand with the hammer, Sam was in severe pain.
+
+---
+
+- **vision** //
+    {U} ~ is the ability to see
+    > e.g. The eye doctor tested my vision.
+
+---
+
+- **charitable** //
+    {adj} A ~ organization aims to help people.
+    > e.g. I give money each year to a charitable foundation.
+
+---
+
+- **committee** //
+    {U} A ~ is a group of people who meet together to make decisions.
+    > e.g. The school's committee agreed on a new dress code for students.
+
+---
+
+- **dine** /ai/
+    {VI} To ~ means to eat dinner.
+    > e.g. The young couple dined at their home.
+
+---
+
+- **flavor** /ei/
+    {U,} how food or drink tastes
+    > e.g. The flavor of the ice cream was very good.
+
+    {C} a particular type of taste
+    > This yogurt comes in ten different flavors.
+
+---
+
+- **mud** /^/
+    {U} ~ is soft, wet dirt.
+    > e.g. My brother played rugby in the mud. Now, he's dirty.
 
 ---
 
