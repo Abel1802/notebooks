@@ -1,22 +1,43 @@
 # User Guide for Cluster
 
+- [User Guide for Cluster](#user-guide-for-cluster)
+  - [Some useful commands for HPC](#some-useful-commands-for-hpc)
+  - [SlURM](#slurm)
+    - [submit a batch\_processing job](#submit-a-batch_processing-job)
+    - [submit a interaction job](#submit-a-interaction-job)
+
 ## Some useful commands for HPC
 
-- pgquota
+- **look the quota of user**
 
-- sinfo
+``` bash
+pgquota
+```
+
+- **look the information of all nodes**
+
+```bash
+sinfo
+```
 
 ## SlURM
 
-### submit a interactive job
+### submit a batch_processing job
 
 - **submit**
-'''bash
+
+``` bash
  sbatch run.sh
+```
 
-- monitor the information
-'''bash
+- **monitor the information**
+
+``` bash
 squeue -u p311104
-jobinfo
+```
 
-### submit a batch_processing job
+``` bash
+jobinfo
+```
+
+### submit a interaction job
