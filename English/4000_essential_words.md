@@ -5,6 +5,7 @@
     - [Unit1 ~ Unit10](#unit1--unit10)
     - [Unit 11 ~ 12](#unit-11--12)
     - [Unit 13 ~ 15](#unit-13--15)
+    - [Unit 16 ~ 17](#unit-16--17)
   - [3](#3)
   - [4](#4)
   - [5](#5)
@@ -523,6 +524,100 @@ Note: trial VS trail /ei/
 - **mud** /^/
     {U} ~ is soft, wet dirt.
     > e.g. My brother played rugby in the mud. Now, he's dirty.
+
+---
+
+### Unit 16 ~ 17
+
+- [ ] **academy**
+    {n} a school or college for special training.
+    > the Royal Academy of Music.
+
+---
+
+- [ ] **century**
+    {n} A ~ is one hundred years.
+    > Our company is celebrating a ~ of business in London.
+
+---
+
+- [ ] **clue**
+    {n} A ~ is a fact object that helps solve a mystery or crime.
+    > The detective found some clues on the sidewalk.
+
+---
+
+- [ ] **county** /ti/
+    {n} A ~ is the largest division of state in a country.
+    > He wanted to represent the citizens of his county.
+
+---
+
+- [ ] **pound**
+    {VT, VI} To ~ sth is to hit it many times with a lot of force.
+    > He pounded the nail with hammer.
+
+    {N, money in UK}
+
+---
+
+- [ ] **attach**
+    {v} To ~ is to put two things together.
+    > I attached the socks to the clothesline to dry.
+
+---
+
+- [ ] **bet** /e/
+    {v} To ~ is to risk money on the result of a game or a business.
+    > How much will you bet that your horse will win?
+
+---
+
+- [ ] **carriage** /ae/
+    {n} A ~ is a vehicle pulled by a horse.
+    > We took a carriage ride in the park.
+
+---
+
+- [ ] **classic** VS **classical**
+    {n} A ~ thing is sth that is common from the past.
+    > THe athlete made a classic mistake-he started running too soon.
+
+---
+
+- [ ] **commute**
+    {VI, ~ from A to B, ~ between A and B} to travel regularly by bus, train, car, etc.(between your place of work and home)
+    > She commutes from Oxford to London every day.
+
+---
+
+- [ ] **criticize** /i, i, ai/
+    {VT} To ~ is to say bad things about sb or sth.
+    > He criticized his wife for spending too much money.
+
+---
+
+- [ ] **expense** /s/
+    {n} An ~ is the money that people spend on sth.
+    > She wrote down all the expenses for her trip.
+
+---
+
+- [ ] **mechanic** /-e, ae/ VS **mechanical** {adj}
+    {n} A ~ is sb who fixes vehicles or machines.
+    > We took the car to the mechanic to be fixed.
+
+---
+
+- [ ] **prime** /ai/
+    {adj} ~ shows that sth is the most important one.
+    > Dirty air is a prime cause of illness.
+
+---
+
+- [ ] **shift** /i/
+    {VI} To ~ is to move into a different place or direction.
+    > He shifted to the other side of the table to eat his breakfast.
 
 ---
 
