@@ -7,6 +7,7 @@
     - [Unit 13 ~ 15](#unit-13--15)
     - [Unit 16 ~ 17](#unit-16--17)
     - [Unit 18 ~ 20](#unit-18--20)
+    - [Unit 21 ~ 22](#unit-21--22)
   - [3](#3)
   - [4](#4)
   - [5](#5)
@@ -768,6 +769,106 @@ Note: trial VS trail /ei/
 
     {v} To ~ is to leave a job, usually because of old age.
     > My father is sixty-five years old. He is about to retire from work.
+
+---
+
+### Unit 21 ~ 22
+
+- [ ] **astronaut** //
+
+    {n} An ~ is a person who goes into outer space.
+    > The astronaut was walking on the moon.
+
+---
+
+- [ ] **courage** //
+
+    {n} ~ is the feeling of not being afraid.
+    > THe man had the courage to torch the lion.
+
+---
+
+- [ ] **grant** //
+
+    {VT} To ~ sth is to allow sb to have it.
+    > The teacher granted us a break after studying fard all day.
+
+---
+
+- [ ] **miner** /ai/
+
+    {n} A ~ is a person who works in a mine.
+    > The miner was looking for gold.
+
+---
+
+- [ ] **mineral** /i/
+
+    {n} A ~ is a type of substance found in the Earth.
+    > Rocks are made up of different kinds of minerals.
+
+---
+
+- [ ] **jewel** /d3u:-el/
+
+    {n} A ~ is a beautiful stone that is worth a lot of money.
+    > A diamond is one of the most expensive jewels in the world.
+
+---
+
+- [ ] **pour** /D:/
+
+    {v} To ~ a liquid means to make it come out of a container.
+    > I poured some milk into my sister's cup.
+
+---
+
+- [ ] **satellite** //
+
+    {n} A ~ is machine sent into space to get information.
+    > The satellite was traveling around the Earth.
+
+---
+
+- [ ] **scale** /s,k,eil/
+
+    {n} The ~ of sth is its size, especially when it is very large.
+    > The satellite was traveling around the Earth.
+
+---
+
+- [ ] **arrest** //
+
+    {v} To ~ sb means to catch that person for doing something bad.
+    > The man was arrested for breaking the law.
+
+---
+
+- [ ] **breed** /i:/
+
+    {n, v} A ~ is a group of animals within a species.
+    > I like small dog breeds, such as terriers.
+
+---
+
+- [ ] **bucket** /^, i/
+
+    {n} A ~ is a a round container to put things in.
+    > I filled the bucket with water.
+
+---
+
+- [ ] **contest** //
+
+    {n} A ~ is a a game or a race.
+    > The girls had a contest to see who could jump higher.
+
+---
+
+- [ ] **convict** /vi/
+
+    {v} To ~ means to prove that sb did a bad thing.
+    > He was convicted of the crime and sent to the jail.
 
 ---
 
