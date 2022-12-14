@@ -626,7 +626,7 @@ Note: trial VS trail /ei/
 
 - [ ] **ceiling** /i:/
 
-    {n} The ~ us the top of a room.
+    {n} The ~ is the top of a room.
     > He shifted to the other side of the table to eat his breakfast.
 
 ---
