@@ -2,6 +2,6 @@
 
 ## Content
 
-- journal [journal]
+- [journal] (journal)
 - coding
 - other
