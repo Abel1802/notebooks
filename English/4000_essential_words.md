@@ -6,6 +6,7 @@
     - [Unit 11 ~ 12](#unit-11--12)
     - [Unit 13 ~ 15](#unit-13--15)
     - [Unit 16 ~ 17](#unit-16--17)
+    - [Unit 18 ~ 20](#unit-18--20)
   - [3](#3)
   - [4](#4)
   - [5](#5)
@@ -618,6 +619,155 @@ Note: trial VS trail /ei/
 - [ ] **shift** /i/
     {VI} To ~ is to move into a different place or direction.
     > He shifted to the other side of the table to eat his breakfast.
+
+---
+
+### Unit 18 ~ 20
+
+- [ ] **ceiling** /i:/
+
+    {n} The ~ us the top of a room.
+    > He shifted to the other side of the table to eat his breakfast.
+
+---
+
+- [ ] **convince** /vin/
+
+    {v} To ~ sb means to make that person sure of sth.
+    > She convinced me to buy the house.
+
+---
+
+- [ ] **diary** /ai/
+
+    {n} A ~ is a book in which people write their personal experience.
+    > I do not let anybody read my diary.
+
+---
+
+- [ ] **faith** /ei/
+
+    {n} ~ is trust or belief without proof.
+    > The sick girl had faith in doctors. She knew they would make her better.
+
+---
+
+- [ ] **investigate** /e, ei/
+
+    {v} To ~ means to search for sth or learn about it.
+    > The detective went to investigate the crime.
+
+---
+
+- [ ] **monk** /^/
+
+    {n} A ~ is a religious person who lives a simple life.
+    > The monks knew a lot about religion.
+
+---
+
+- [ ] **pause** /D:, z/
+
+    {v} To ~ means to stop doing sth for a while.
+    > Since she was so hungry, she paused to make a snack.
+
+---
+
+- [ ] **priest** /ri:, st/
+
+    {n} A ~ is a person trained to perform religious duties.
+    > The priest taught us about God.
+
+---
+
+- [ ] **profession** //
+
+    {n} A ~ is a a person's job.
+    > He loved sailing, so he chose to work on ships as a profession.
+
+---
+
+- [ ] **responsible** //
+
+    {adj} A ~ person is in charge of sb or sth.
+    > Peter is responsible for leading his department.
+
+---
+
+- [ ] **sell** /e/ VS **sale** /ei/ {n}
+
+    {v} To sell is to give sth to sb in exchange for money.
+    > This man's job is sell houses.
+
+---
+
+- [ ] **tongue** /^/
+
+    {n} A ~ is the movable muscle inside the mouth that is used to speak, eat, and drink.
+    > The cat uses its tongue to drink water.
+
+---
+
+- [ ] **approve** //
+
+    {v} To ~ of sth means you like or agree with that thing.
+    > Her co-worker approved her new plan.
+
+---
+
+- [ ] **barrier** /ae/
+
+    {n} A ~ is sth that blocks a path or way.
+    > The Great Wall was a barrier between China and its enemies.
+
+---
+
+- [ ] **duty** /dju:/
+
+    {n} A ~ is sth that a person has to do.
+    > It is parents' duty to take care of their children.
+
+---
+
+- [ ] **failure** /ei,lj-er/
+
+    {n} A ~ happens when sth is not done right.
+    > My cooking ended in failure because I burned the food.
+
+---
+
+- [ ] **gradual** /ae/
+
+    {adj} Sth gradual happens slowly.
+    > Children learn to read at a gradual pace. They do not learn right away.
+
+---
+
+- [ ] **instant** //
+
+    {n, adj} An ~ is a very short amount of time.
+    > A microwave oven cooks food in an instant.
+
+---
+
+- [ ] **recognition** //
+
+    {n} ~ is the act of getting praise from other people.
+    > The hero got recognition for his brave deed.
+
+---
+
+- [ ] **refrigerate** /i, -e/
+
+    {v} To ~ sth means to make it cold.
+    > Supermarkets refrigerate fruit to make it last long.
+
+---
+
+- [ ] **retire** /ai/
+
+    {v} To ~ is to leave a job, usually because of old age.
+    > My father is sixty-five years old. He is about to retire from work.
 
 ---
 
