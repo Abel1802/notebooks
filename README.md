@@ -2,6 +2,7 @@
 
 ## Content
 
+- [English](English)
 - [journal](journal)
-- coding
-- other
+- [coding](coding)
+- [other]
