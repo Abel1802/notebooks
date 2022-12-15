@@ -8,6 +8,7 @@
     - [Unit 16 ~ 17](#unit-16--17)
     - [Unit 18 ~ 20](#unit-18--20)
     - [Unit 21 ~ 22](#unit-21--22)
+    - [Unit 23 ~ 25](#unit-23--25)
   - [3](#3)
   - [4](#4)
   - [5](#5)
@@ -869,6 +870,155 @@ Note: trial VS trail /ei/
 
     {v} To ~ means to prove that sb did a bad thing.
     > He was convicted of the crime and sent to the jail.
+
+---
+
+### Unit 23 ~ 25
+
+- [ ] **crowd** /au/
+
+    {n} A ~ is a large group of people who are together in one place.
+    > The crowd waved to the camera.
+
+---
+
+- [ ] **dish** //
+
+    {n} A ~ is a type of food that is cooked in a particular way.
+    > My favorite dish at the restaurant is chicken curry.
+
+---
+
+- [ ] **bend** /bend/
+
+    {v} To ~ is to move sth so it is not straight.
+    > Lee bent over and picked up the paper on the ground.
+
+---
+
+- [ ] **fiction** /i/
+
+    {n, U} ~ is a story that is nor true.
+    > I enjoy reading works of fiction because they are very entertaining.
+
+---
+
+- [ ] **inspect** //
+
+    {v} To ~ is to look at sth carefully.
+    > The mechanic inspected our car to see if it had any problems.
+
+---
+
+- [ ] **journal** //
+
+    {n} A ~ is a type of magazine that deals with an academic subject.
+    > My-yong was busy working on an article for an art journal.
+
+---
+
+- [ ] **marvel** /a:/
+
+    {v} To ~ at sth is to feel surprise and interest in it.
+    > We ~ at her excellent piano playing.
+
+---
+
+- [ ] **regret** /i, e/
+
+    {v} To ~ sth is to wish that is hadn't happened.
+    > I regret that I was mean to my sister.
+
+---
+
+- [ ] **surgery** /-e, d3/
+
+    {n} ~ is medical treatment involving a doctor cutting into a body.
+    > I needed surgery to repair my leg after the accident.
+
+---
+
+- [ ] **tough** /^/
+
+    {adj} A ~ thing is difficult.
+    > The man passed his driving test even though it was tough.
+
+---
+
+- [ ] **atom** /ae/
+
+    {n} An ~ is the smallest unit of a substance.
+    > A molecule consists of a combination of two or more atoms.
+
+---
+
+- [ ] **breadth** /bred, th/
+
+    {n} ~ is the distance from one side to the other side of sth.
+    > The ~ of the northern wall of the house is twenty meters.
+
+---
+
+- [ ] **comet** /i/
+
+    {n} A ~ is an object in space made of ice and rock with a tail of glowing dust.
+    > Comets take many decades to complete an orbit around a star.
+
+---
+
+- [ ] **despair** /i, ai/
+
+    {n} ~ is the feeling of having no hope.
+    > After we lost the big account, our salespeople were filled with despair.
+
+---
+
+- [ ] **fragment** /ae/
+
+    {n} A ~ is a small part of sth.
+    > After the light broke, there were fragments of glass to clean up.
+
+---
+
+- [ ] **gloom** /u:/
+
+    {n} ~ is a state of almost complete darkness or sadness.
+    > In the gloom of the morning, it was difficult to see the boat on the lake.
+
+---
+
+- [ ] **radiate** /ei, ei/
+
+    {v} To ~ means to send out energy or heat.
+    > The heat from the fireplace radiated throughout the room.
+
+---
+
+- [ ] **roam** /ou/
+
+    {v} To ~ means to move around without a plan or purpose.
+    > All day, the cows roamed around the field eating grass.
+
+---
+
+- [ ] **solitary** /D, i/
+
+    {adj} A ~ thing is lonely or the only one.
+    > The only thing in the room was solitary chair.
+
+---
+
+- [ ] **sphere** /si, fi-e:r/
+
+    {n} A ~ is a three-dimensional round shape , like a ball.
+    > The only thing in the room was solitary chair.
+
+---
+
+- [ ] **status** /ei/
+
+    {n} ~ is the position of sth or sb in relation to others.
+    > She had achieved the status of being the smartest girl in the class.
 
 ---
 
