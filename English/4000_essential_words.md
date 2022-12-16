@@ -9,6 +9,7 @@
     - [Unit 18 ~ 20](#unit-18--20)
     - [Unit 21 ~ 22](#unit-21--22)
     - [Unit 23 ~ 25](#unit-23--25)
+    - [Unit 26 ~ 27](#unit-26--27)
   - [3](#3)
   - [4](#4)
   - [5](#5)
@@ -1019,6 +1020,171 @@ Note: trial VS trail /ei/
 
     {n} ~ is the position of sth or sb in relation to others.
     > She had achieved the status of being the smartest girl in the class.
+
+---
+
+### Unit 26 ~ 27
+
+- [ ] **accuse** /-e/
+
+    {V} To ~ sb of sth is to blame them for doing it.
+    > She accused her brother of breaking her computer.
+
+---
+
+- [ ] **amuse** /-e/
+
+    {V} To ~ sb means to do sth that is funny of entertaining.
+    > The singer was very good. She amused the crowd.
+
+---
+
+- [ ] **coral** /D:/
+
+    {n} ~ is the hard, colorful material formed by the shells of animals.
+    > The diver admired the beautiful coral under the water.
+
+---
+
+- [ ] **cotton** /D/
+
+    {n} ~ is a cloth made from the fibers of the cotton plant.
+    > I like to wear clothes made from cotton in the summer.
+
+---
+
+- [ ] **deck** /dek/
+
+    {n} A ~ is a wooden floor built outside of a house or the floor of a ship.
+    > A ship will store many supplies below its ~.
+
+---
+
+- [ ] **engage** /ei/
+
+    {v} To ~ in sth means to do it.
+    > Dad was engaged in sawing a piece of wood in half.
+
+---
+
+- [ ] **firm** /-e:/
+
+    {n} == a company
+
+    {adj} A ~ thing is solid but not too hard.
+    > He sleeps better on a firm bed.
+
+- [ ] **grand** /ae/
+
+    {adj} Sth grand is big and liked by people.
+    > The grand mountain rose high into the sky.
+
+---
+
+- [ ] **hurricane** /^, i/
+
+    {n} A ~ is a bad storm that happens over the ocean.
+    > The wind from the hurricane bent the palm tree.
+
+---
+
+- [ ] **plain** /ein/
+
+    {adj} A ~ thing is simple and not decorated.
+    > He bought a pair of ~ white shows over the weekend.
+
+---
+
+- [ ] **reef** /i:/
+
+    {n} A ~ is a group of rocks or coral in the ocean.
+    > He walked along the reef and looked at the water below.
+
+---
+
+- [ ] **shut** /^/
+
+    {v} To ~ sth means to close is tightly.
+    > Please shut the door, the air outside is cold.
+
+---
+
+- [ ] **strict** //
+
+    {adj} A ~ person makes sure others follow rules.
+    > The teacher is strict. She does not let students talk in class.
+
+---
+
+- [ ] **surf** /-e:/
+
+    {v} To ~ means to use a special board to ride on waves in the ocean.
+    > The students want to the beach to surf during their vacation.
+
+---
+
+- [ ] **apology** /d3i/
+
+    {n} An ~ is what people say to show that they are sorry.
+    > After arguing with fer teacher, the girl wrote the teacher an apology.
+
+---
+
+- [ ] **bold** /ou/
+
+    {adj, in thick, dark}
+
+    {adj} A ~ person is not afraid of doing sth.
+    > The ~ man climbed the high mountain.
+
+---
+
+- [ ] **duke** /dju:k/
+
+    {n} A ~ is a man of high social rank but below a king or queen.
+    > The ~ ruled over the land.
+
+---
+
+- [ ] **expose** /ou, z/   VS    **explode** / **explosion**
+
+    {v} To ~ is to make known sth that is hidden.
+    > He took off his shirt to expose his costume.
+
+---
+
+- [ ] **innocent** /-e/
+
+    {adj} An ~ person is not guilty of a crime.
+    > The judge said that the woman was innocent of the crime.
+
+---
+
+- [ ] **minister** //
+
+    {n} A ~ is an important person in government with many duties.
+    > The ~ of education controls the country's schools.
+
+---
+
+- [ ] **resemble** /ze/   VS    **assemble**
+
+    {v} To ~ sb is to look like that person.
+    > The baby really ~ his father.
+
+---
+
+- [ ] **tobacco** /-e, bae/
+
+    {n} ~ is a plant whose leaves are smoked, such as in cigarettes.
+    > The tobacco in cigarettes is bad to you.
+
+---
+
+- [ ] **witch** /wi/
+
+    {n} A ~ is a woman with magical powers.
+    > People think that witches fly around on broomsticks.
 
 ---
 
