@@ -10,6 +10,7 @@
     - [Unit 21 ~ 22](#unit-21--22)
     - [Unit 23 ~ 25](#unit-23--25)
     - [Unit 26 ~ 27](#unit-26--27)
+    - [Unit 28 ~ 30](#unit-28--30)
   - [3](#3)
   - [4](#4)
   - [5](#5)
@@ -1185,6 +1186,197 @@ Note: trial VS trail /ei/
 
     {n} A ~ is a woman with magical powers.
     > People think that witches fly around on broomsticks.
+
+---
+
+### Unit 28 ~ 30
+
+- [ ] **bare** /e-e/
+
+    {adj} A ~ thing is plain and not cover.
+    > He likes to walk around in his bare feet.
+
+---
+
+- [ ] **cast** //
+
+    {v} To ~ sth means to throw it.
+    > The fisherman cast his line into the water.
+
+---
+
+- [ ] **dare** /e-e/
+
+    {v} To ~ means to be brave enough to try sth.
+    > He dared to jump out of the airplane and skydive.
+
+---
+
+- [ ] **inn** /in/
+
+    {n} An ~ is a place where travelers can rest and eat.
+    > Teh visitor got a room at the inn.
+
+---
+
+- [ ] **subtract** /-e, ae/
+
+    {v} To ~ means to take sth away.
+    > We learned how to subtract numbers in class.
+
+---
+
+- [ ] **virtual** /-e/
+
+    {adj} A ~ thing is very close to being true or accurate.
+    > Because he is popular, joe is the virtual leader of the group.
+
+---
+
+- [ ] **deserve** /z-e/
+
+    {v} To ~ is to be worthy of sth as a result of one's actions.
+    > The dog deserved a bone for behaving very well.
+
+---
+
+- [ ] **feather** /e/
+
+    {n} Feathers are the things covering a bird's bodies.
+    > The bird has orange feathers on its chest.
+
+---
+
+- [ ] **fertile** /-e, ai/
+
+    {adj} ~ land is able to produce good crops and plants.
+    > The farmer grew many vegetables in the fertile soil.
+
+---
+
+- [ ] **grave** /ei/
+
+    {n} A ~ is the place where a dead person is buried.
+    > We visit our grandfather's grave each year.
+
+---
+
+- [ ] **ideal** /ai, i:/
+
+    {adj} An ~ thing is the best that it can possibly be.
+    > This house is an ideal place for my family. It has everything we need.
+
+---
+
+- [ ] **wheel** /i:/
+
+    {n} A ~ is a round thing on a vehicle that turns when it moves.
+    > A car has four wheels.
+
+---
+
+- [ ] **appliance** /-e/
+
+    {n} An ~ is apiece of equipment used for jobs in the home.
+    > Many homes have appliances like ovens, toasters, and refrigerators.
+
+---
+
+- [ ] **basin** /ei/
+
+    {n} A ~ is large bowl for washing things. A sink is sometimes called a basin.
+    > She filled the basin with water and washed her face.
+
+---
+
+- [ ] **broom** //
+
+    {n} A ~ is brush with a long handle used for cleaning floors.
+    > My father usually uses a broom to sweep away dust in the basement.
+
+---
+
+- [ ] **caterpillar** /ae, i/
+
+    {n} A ~ is a small insect that looks like a worm and eats plants.
+    > After eating a lot of leaves, caterpillars change into butterflies.
+
+---
+
+- [ ] **delicate** /e, -e, i/
+
+    {adj} Delicate things are easy to break or harm.
+    > You should hold the baby carefully because she is very delicate.
+
+---
+
+- [ ] **emerge** /i, -e/
+
+    {v} To ~ from sth means to come out of it.
+    > A groundhog emerged from a snow covered hole.
+
+---
+
+- [ ] **handicap** /i, ae/
+
+    {n} A ~ is a condition that limits sb's mental or physical abilities.
+    > Joe has a slight handicap, so he uses a walker to get around.
+
+---
+
+- [ ] **hop** /D/
+
+    {v} To ~ means to jump a short distance.
+    > The kangaroo quickly hopped away from danger.
+
+---
+
+- [ ] **pursue** /-e, su:/
+
+    {v} To ~ is to chase or follow sb or sth.
+    > The mother pursued her young child down the hill.
+
+---
+
+- [ ] **sleeve** /i:, v/
+
+    {v} Sleeves are the part of shirt in which arms go.
+    > Ryan bought a new shirt with long sleeves to keep his arms warm.
+
+---
+
+- [ ] **spine** /ain/
+
+    {n} The ~ is the group of bones that run up and down the middle of the back.
+    > Our spine helps us to stand up nice and straight.
+
+---
+
+- [ ] **stain** /ei/
+
+    {n} A ~ is a dirty mark that is difficult to clean.
+    > He had a red stain on the collar of his shirt.
+
+---
+
+- [ ] **strip** /strip/
+
+    {n} A ~ is a long, narrow piece of material or land.
+    > He had long strips of film that held images of his trip abroad.
+
+---
+
+- [ ] **swear** /e/
+
+    {v} To ~ means to promise to do sth.
+    > I will put my hand on the Bible and swear to do my best for the country.
+
+---
+
+- [ ] **swing** //
+
+    {v} To ~ sth means to move it back and forth or from side to side.
+    > He can swing a golf club very powerfully.
 
 ---
 
