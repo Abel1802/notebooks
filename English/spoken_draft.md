@@ -76,3 +76,75 @@
 - [ ] set a good example
 
     > His dad was always telling him to set a good example for his younger brother.
+
+- [ ] meet someone's expectation
+
+    > His academic performance failed to meet his parents' expectation.
+
+- [ ] cover a lot of ground
+
+    > We'vs covered a lot of ground in this class in the past couple of months.
+
+- [ ] be well-rounded
+
+    > She's a well-rounded person who not only works hard but also has a varied social life.
+
+- [ ] self-paced learning / education
+
+    > Self-paced distance learning offers students convenience and flexibility.
+
+- [ ] core curriculum
+
+    > The core curriculum provide the necessary general education for students, irrespective of their field of interest.
+
+- [ ] promote equality
+
+    > Some people believe that uniform can promote equality and encourage better behavior at school.
+
+- [ ] co-education
+
+    > Some people believe that co-education can make children feel more comfortable in the company of the opposite sex.
+
+- [ ] a single sex school.
+
+    > Some people argue that single sex school impose abnormal conditions upon children.
+
+- [ ] anti-social behavior
+
+    > Even though the great majority of students are well-behaved, there is a small minority that engage in anti-social behavior.
+
+- [ ] adolescence /ae, -e, e/
+
+    > The book deals with the joys and sorrows of adolescence.
+
+- [ ] a healthy/positive outlook on life
+
+    > A healthy outlook on life can help students to succeed both academically and socially.
+
+- [ ] drop out of school
+
+    > In this country, each year many students are forced to drop out of school.
+
+- [ ] come of age
+
+    > In some countries, to come of age means to reach the age when someone is legally recognized as an adult ans is legally responsible for his/her owen behavior.
+
+- [ ] slack off {make less of an effort than usual}
+
+    > It's about time you stopped slacking off and did some work.
+
+- [ ] put theory into practice
+
+    > The workshop helps students to put theory into practice. They can test their ideas or plans for practical applications there.
+
+- [ ] compulsory subject / optional subject
+
+    > They believe that at the second level, all students should take Math and English, but other subjects can be optional.
+
+- [ ] There is no substitute for sb/sth
+
+    > There is no substitute for a face-to-face relationship with a caring and well-informed teacher.
+
+- [ ] be sb's mentor
+
+    > Freya is my teacher, my mentor and my friend.
