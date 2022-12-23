@@ -2,6 +2,7 @@
 
 - [30 Topic Themes](#30-topic-themes)
   - [1 Education](#1-education)
+    - [self-talking about education](#self-talking-about-education)
 
 ## 1 Education
 
@@ -148,3 +149,12 @@
 - [ ] be sb's mentor
 
     > Freya is my teacher, my mentor and my friend.
+
+### self-talking about education
+
+Hi. I want to talk about education. Now I am a PhD student at the University of Groningen. I believe that obtaining the PhD diploma often is a arduous but rewarding process. In order to get high academic performance, I not only learn the compulsory and optional courses by heart, but also put theory into practice. It is important for me to use lateral thinking instead of linear thinking. I want to make some innovation in this way. The other important thing for me is to learn self-discipline. Because now I am in a self-paced distance learning at home. I need to control myself and finish work on time. Also in the special time, I like to read extensively. I felt peaceful when I reading. In the end, studying PhD is not to meet someone's expectation. It is follow my heart. That is all.
+
+大家好，我今天想和大家讨论教育这个话题。首先它离我们很近，不管你是小学生，初中生，高中生，大学生，研究生，博士生。以我自己为例，我从上学到现在博士一年级，已经快读了二十年的书。我今天想聊的不是关于中国的教育政策利弊之类的话题，我想聊的是我们这这些年的学习中到底学会了什么。我想到第一点就是我们学会了如何应对考试，并且获得高分。第二，我们学到了和我们专业相关的一点点知识，而且往往不太能直接应用到实际当中去。其他的我想不出我们还学会了啥。但是，现在的我想学习之前没有学会的几件事，第一，我想学习听得懂说的出的英语；第二我想学习如何思考；第三我想学习如何生活。这几件事我觉得之后会是我必须掌握的能力。虽然现在我还不知具体如何去做，但我会不断尝试。这是我的第一个尝试，首先学习将英语说出口，让别人听得懂。感谢你的聆听，我们下次见。
+
+Hello everyone, today, I would like to talk the topic of education. First of all, it is very close to us, whether you are an elementary school student, junior high school student, high school student, undergraduate student, graduate student, PhD student. In my own case, I have been studied for almost twenty years, from the elementary school to my current PhD studying. What I want to talk about today is not about the advantages or disadvantages of China's education policy, but about what we have learned over the years. The first thing that comes to mind is that we learned how to deal with exams and get high grades. Second, we learn a little bit about our major, and often it is not directly applicable to practice. I can't think of anything else we've learned. However, now I want to learn a few things that I didn't learn before, first, I want to learn to speak with native speakers. Second, I want to learn how to think. Third, I want to learn how to live. I don't know exactly how to do these yet, but I'll keep trying. This was my first attempt, first learning to speak English so that you could understand it. Thank you for listening, and I'm looking forward to seeing you next time.
+(Have a nice day!)
