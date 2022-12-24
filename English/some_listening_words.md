@@ -4,6 +4,7 @@
   - [A1 level](#a1-level)
   - [BBC world news](#bbc-world-news)
     - [23-12-2022](#23-12-2022)
+    - [bbc-making sense of the census](#bbc-making-sense-of-the-census)
 
 ## A1 level
 
@@ -73,3 +74,58 @@
 - [ ] football legend Lionel Messi clutching the solid gold trophy
 
 - [ ] declare {declared a public holiday}
+
+### bbc-making sense of the census
+
+- [ ] **trace** {trace their family history}
+
+- [ ] **census** {A census is an official count of all the people living in a country.}
+
+- [ ] **1801**
+- [ ] **2002**
+
+- [ ] **became available online**
+
+- [ ] **rush to do** {so many people rushed to their computers to access them that the website crashed!}
+
+- [ ] **quiz** {a quiz question}
+
+- [ ] character
+- [ ] characteristic
+- [ ] **tough-guy** {Danny Dyer usually plays tough-guy characters}
+
+- [ ]although
+- [ ] **took place** {although the first British census took place in 1801, other censuses have a much longer history.}
+
+- [ ] **bible** {the bible story}
+
+- [ ] **original** {the original reason for counting people}
+
+- [ ] **forum** {}
+- [ ] **purpose** {}
+- [ ] **fight wars**
+
+- [ ] **from house to house**
+
+- [ ] **desire**
+
+- [ ] **statistician**
+- [ ] **economist** {Here's statistician and economist Andrew Whitby explaining how this happened in the US to BBC World Service programm, The Forum.}
+
+- [ ] **punch** {punched onto a card}
+
+- [ ] **hole** {So that there holes in this card representing different characteristics of the person and then those cards could be fed through a machine.}
+
+- [ ] **keeping records** {}
+
+- [ ] **trend** {}
+- [ ] **shift** {many censuses today are electronically updated to record new trends and shifts in populations as they happen.}
+
+- [ ] **personal information** {}
+
+- [ ] **recap** {}
+
+- [ ] **clerk** {A clerk is an office worker whose job involved keeping records.}
+- [ ] **tabulation** {Tabulate means show information in the form of a table with rows and columns.}
+- [ ] **taxation** {Taxation is the government's system of taxing people to pay for public services.}
+- [ ] **conscription** {The Romans used conscription to force men to join the army by law.}
