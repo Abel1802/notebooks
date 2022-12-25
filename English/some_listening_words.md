@@ -5,6 +5,7 @@
   - [BBC world news](#bbc-world-news)
     - [23-12-2022](#23-12-2022)
     - [bbc-making sense of the census](#bbc-making-sense-of-the-census)
+    - [bbc-Musk CEO (chief executive officer)](#bbc-musk-ceo-chief-executive-officer)
 
 ## A1 level
 
@@ -147,3 +148,43 @@
 - [ ] **tabulation** {Tabulate means show information in the form of a table with rows and columns.}
 - [ ] **taxation** {Taxation is the government's system of taxing people to pay for public services.}
 - [ ] **conscription** {The Romans used conscription to force men to join the army by law.}
+
+- [ ] **appetite** {whet your appetite}
+
+### bbc-Musk CEO (chief executive officer)
+
+- [ ] biodiversity summit
+- [ ] key target
+- [ ] be continuing with
+- [ ] delegate
+- [ ] protect the loss of nature
+
+- [ ] the main goal
+- [ ] a BBC correspondent
+- [ ] billionaire
+- [ ] user
+- [ ] vote on
+- [ ] CEO (chief executive officer)
+
+- [ ] abide by {He's promised to abide by the result.}
+- [ ] caution
+- [ ] poll
+
+- [ ] momentum (he's confident in the company's momentum despite revenue growth slowing in the third quarter.)
+
+- [ ] decision
+- [ ] defend
+- [ ] hike transaction fees
+    > He's also defended the decision to hike transaction fees earlier his year.
+
+- [ ] specimen
+- [ ] drill
+- [ ] scientist
+- [ ] more detail
+
+- [ ] stuck
+- [ ] risk
+- [ ] break down
+- [ ] vehicle
+- [ ] rover
+    > It can't risk the rover breaking down with the entire rock collection stuck inside the vehicle.
