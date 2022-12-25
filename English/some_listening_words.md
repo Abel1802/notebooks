@@ -46,6 +46,22 @@
 - [ ] gorgeous
 - [ ] celebrities
 
+- [ ] Starbucks
+- [ ] I'm the opposite.
+- [ ] who makes you laugh?
+- [ ] silly things
+- [ ] eggs
+- [ ] ham
+- [ ] bacon
+- [ ] syrup
+
+- [ ] Hey Todd, can I ask you a favor?
+- [ ] Does the dog have a cage?
+- [ ] OK, how about smoking?
+
+- [ ] Do you use coupons or special offers?
+- [ ] on sale
+
 ## BBC world news
 
 ### 23-12-2022
