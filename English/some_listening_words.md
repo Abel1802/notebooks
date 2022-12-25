@@ -27,6 +27,24 @@
 - [ ] cereal
 - [ ] make my bed
 
+- [ ] weird
+- [ ] skytrain
+- [ ] Valentine's Day
+- [ ] Independence's Day
+- [ ] Halloween
+- [ ] rule
+- [ ] take-away
+- [ ] Can you sing well?
+- [ ] a wedding dress shop
+- [ ] I lied about my age.
+- [ ] sophomore
+- [ ] broccoli
+- [ ] come over for dinner
+- [ ] a hot bath
+- [ ] pineapple
+- [ ] gorgeous
+- [ ] celebrities
+
 ## BBC world news
 
 ### 23-12-2022
