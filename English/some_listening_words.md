@@ -6,6 +6,7 @@
     - [23-12-2022](#23-12-2022)
     - [bbc-making sense of the census](#bbc-making-sense-of-the-census)
     - [bbc-Musk CEO (chief executive officer)](#bbc-musk-ceo-chief-executive-officer)
+    - [BBC-Afghan women education](#bbc-afghan-women-education)
 
 ## A1 level
 
@@ -204,3 +205,34 @@
 - [ ] vehicle
 - [ ] rover
     > It can't risk the rover breaking down with the entire rock collection stuck inside the vehicle.
+
+### BBC-Afghan women education
+
+- [ ] suspend
+- [ ] further notice
+    > Afghan women are being suspended from universities until further notice.
+
+- [ ] education ministry
+- [ ] take effect
+    > The move by the education ministry is expected to take effect immediately.
+
+- [ ] gender-segregated
+- [ ] takeover
+
+- [ ] defense ministry
+- [ ] announce
+- [ ] arrest
+- [ ] a drug lord
+- [ ] the purchase of illegal weapons
+- [ ] money-laundering
+
+- [ ] a 6.4 magnitude earthquake
+- [ ] the early hours of Tuesday
+
+- [ ] identify
+- [ ] dinosaur
+- [ ] mammal
+- [ ] fossil / fossilize
+- [ ] 120 million-year-old rib cage
+
+- [ ] northeast China
