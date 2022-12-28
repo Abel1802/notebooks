@@ -7,6 +7,7 @@
     - [bbc-making sense of the census](#bbc-making-sense-of-the-census)
     - [bbc-Musk CEO (chief executive officer)](#bbc-musk-ceo-chief-executive-officer)
     - [BBC-Afghan women education](#bbc-afghan-women-education)
+    - [BBC-Twitter suicide-prevention](#bbc-twitter-suicide-prevention)
 
 ## A1 level
 
@@ -236,3 +237,32 @@
 - [ ] 120 million-year-old rib cage
 
 - [ ] northeast China
+
+### BBC-Twitter suicide-prevention
+
+- [ ] promote
+- [ ] suicide
+- [ ] hotline
+- [ ] look up certain content
+    > Twitter has removed a feature that promoted suicide-prevention hotline to users that look up certain content.
+
+- [ ] outgoing Present
+- [ ] annual tradition
+- [ ] dozens of former police officers and soldiers
+- [ ] convicted over
+- [ ] jail / prison
+
+- [ ] lock
+    > Many prisoners were locked in their cells and shot at point-blank range.
+
+- [ ] open fire
+- [ ] a gunman
+- [ ] foreigners
+- [ ] victims
+
+- [ ] far-right
+- [ ] a political element in this attack
+- [ ] a terrorist nature in this attack
+
+- [ ] polar bear
+- [ ] serious decline
