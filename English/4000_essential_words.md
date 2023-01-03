@@ -1,6 +1,8 @@
 # Some essential words for me
 
 - [Some essential words for me](#some-essential-words-for-me)
+  - [1](#1)
+    - [Unit 1 ~ 5](#unit-1--5)
   - [2](#2)
     - [Unit1 ~ Unit10](#unit1--unit10)
     - [Unit 11 ~ 12](#unit-11--12)
@@ -12,9 +14,57 @@
     - [Unit 26 ~ 27](#unit-26--27)
     - [Unit 28 ~ 30](#unit-28--30)
   - [3](#3)
+    - [Unit 1 ~ 2](#unit-1--2)
   - [4](#4)
   - [5](#5)
   - [6](#6)
+
+## 1
+
+### Unit 1 ~ 5
+
+- [ ] **Italy**
+- [ ] **coast**
+- [ ] **Mediterranean**
+- [ ] **a boat trip**
+- [ ] **catch frisbees**
+- [ ] **drink alcohol**
+- [ ] **pizza and pasta**
+
+- [ ] **laboratory**
+- [ ] **experiment**
+- [ ] **scare**
+- [ ] **approach**
+    > Mia approached the door to the laboratory.
+- [ ] **smell**
+- [ ] **chemical** {adj & n}
+- [ ] **doll**
+
+- [ ] **a bad grade**
+- [ ] **sit** {sat, seat}
+- [ ] **draw** {drew}
+- [ ] **alien** {ei}
+- [ ] **seas on Earth**
+- [ ] **ball**
+
+- [ ] **an appropriate way**
+- [ ] **an appropriate way**
+- [ ] **expect**
+- [ ] **spread through the village**
+- [ ] **stroll**
+
+- [ ] **Ironman Races**
+- [ ] **competitor**
+- [ ] **ride a bike**
+- [ ] **a 3.86-kilometer swim**
+- [ ] **a 180.25-kilometer bicycle ride**
+- [ ] **a 42.2-kilometer run**
+- [ ] **bad injuries**
+- [ ] **gain weight**
+- [ ] **held** {hold}
+- [ ] **strength and endurance**
+- [ ] **store calories**
+- [ ] **stay fit**
 
 ## 2
 
@@ -1381,6 +1431,108 @@ Note: trial VS trail /ei/
 ---
 
 ## 3
+
+### Unit 1 ~ 2
+
+- [ ] **acre** /ei/
+
+    {n} An ~ is a unit for measuring area.
+    > They lived on a 150-acre farm.
+
+- [ ] **archaeology** /a:/
+
+    {n} ~ is the study of the remains left by ancient societies.
+    > He enjoyed visiting the Great Pyramids of Egypt because he loves archaeology.
+
+- [ ] **chamber** /ei/
+
+    {n} A ~ is a closed space or room used for a special purpose.
+    > The meeting was held in the faculty chamber.
+
+- [ ] **corridor** //
+
+    {n} A ~ is a narrow passage that leads into other areas.
+    > He took the corridor on the left to go to his office.
+
+- [ ] **elite** /ei, i:/
+
+    {adj} An ~ means of or from a high-level group.
+    > Only an elite group was allowed membership into the club.
+
+- [ ] **found** //
+
+    {v} To ~ sth means to start, organize, or establish that thing.
+    > My grandfather founded the City Bank.
+
+- [ ] **glory** //
+
+    {n} ~ is the importance, magnificence, or specialness of sth.
+    > They enjoyed the glory of the beautiful sunset.
+
+- [ ] **interior** //
+
+    {n} An ~ is the inside of sth.
+    > They looked at the interior of the box.
+
+- [ ] **royal** /rDial/
+
+    {adj} ~ means related to a king or queen.
+    > The Duchness was part of the royal family.
+
+- [ ] **sola** /soul/
+
+    {adj} A ~ person or thing is the only one.
+    > She was the sole woman in the room.
+
+- [ ] **arise** //
+
+    {v} To ~ is to happen.
+    > Difficulties arose with his computer because it was old.
+
+- [ ] **blacksmith** //
+
+    {n} A ~ is a person who makes things out of metal.
+    > The blacksmith pounded the piece of metal until it was flat.
+
+- [ ] **chimney** /i,mni/
+
+    {n} A ~ is a tall pipe used to carry smoke out of building.
+    > The cat was sitting on the roof next to the chimney.
+
+- [ ] **compensate** /-e,ei/
+
+    {v} To ~ is to pay sb for the time they spent doing sth.
+    > Her boss compensated her for the extra work she did last week.
+
+- [ ] **humble** //
+
+    {adj} People who are humble do not believe that they are better than other people.
+    > Even though Bob is the smartest boy in his class, he is humble.
+
+- [ ] **iron** /ai, -ern/
+
+    {n} ~ is a strong metal that is used to make many objects.
+    > The horse had shoes made of iron.
+
+- [ ] **modest** //
+
+    {adj} If people are ~, they do not think that they are too important.
+    > Derek is very modest for sb who is so rich.
+
+- [ ] **penny** //
+
+    {n} A ~ is a coin worth one cent.
+    > US President Abraham Lincoln is on the penny.
+
+- [ ] **preach** //
+
+    {v} To ~ is to talk about and promote a religious idea.
+    > Aaron often preached about living an honest life.
+
+- [ ] **prosper** //
+
+    {v} To ~ is to be successful or make a lot of money.
+    > Frank's new business finally prospered after many years of hard work.
 
 ## 4
 
