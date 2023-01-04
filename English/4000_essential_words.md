@@ -15,6 +15,7 @@
     - [Unit 28 ~ 30](#unit-28--30)
   - [3](#3)
     - [Unit 1 ~ 2](#unit-1--2)
+    - [Unit 3](#unit-3)
   - [4](#4)
   - [5](#5)
   - [6](#6)
@@ -1533,6 +1534,58 @@ Note: trial VS trail /ei/
 
     {v} To ~ is to be successful or make a lot of money.
     > Frank's new business finally prospered after many years of hard work.
+
+### Unit 3
+
+- [ ] **wheat** /wi:t/
+
+    {n} ~ is a plant from which we get the grain used to make bread.
+    > The field of golden wheat was ready to be harvested.
+
+- [ ] **repay** //
+
+    {v} To ~ is to pay back or to reward sb or sth.
+    > She repaid her friend for all of his hard work with a small gift.
+
+- [ ] **offense** /-e, /
+
+    {n} An ~ is behavior that is wrong or breaks a law.  
+    > Stealing a car is a vary serious offense.
+
+- [ ] **neglect** //
+
+    {v} To ~ sb or sth is to not take care of it properly.
+    > William neglected his room, so it is a complete mess.
+
+- [ ] **inferior** //
+
+    {adj} An ~ thing is not as good as sth else.
+    > Cars built a hundred years ago are inferior to ones built today.
+
+- [ ] **discourage** //
+
+    {v} To ~ is to make sb feel less excited about sth.
+    > Mr.Perry discouraged the students from quitting school.
+
+- [ ] **acquire** //
+
+    {v} To ~ sth is to get or gain possession of that thing.
+    > Tina acquired a strange package yesterday.
+
+- [ ] **awkward** /D:, /
+
+    {adj} An ~ thing is embarrassing and uncomfortable.
+    > After dropping his coffee cup, Robbie felt awkward.
+
+- [ ] **caretaker** //
+
+    {n} A ~ is a person who takes care of very young, old, or sick people.
+    > My grandmother's caretaker helps her ger around the house.
+
+- [ ] **hatred** //
+
+    {n} ~ is a strong feeling of not liking sb or sth.
+    > I have a hatred for the taste of medicine.
 
 ## 4
 
