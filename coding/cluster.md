@@ -40,4 +40,9 @@ squeue -u p311104
 jobinfo
 ```
 
+``` bash
+scancel jobid
+scancel -u usename
+```
+
 ### submit a interaction job
