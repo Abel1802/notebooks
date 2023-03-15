@@ -27,7 +27,14 @@ sinfo
 - **submit**
 
 ``` bash
+ # The run.sh is comprised of 3 main parts:
+ # 1. #!/bin/bash
+ # 2. #SBATCH lines
+ # 3. echo "Hello World" --The code you are actually running
+
  sbatch run.sh
+ 
+
 ```
 
 - **monitor the information**
